@@ -1,4 +1,4 @@
-# cos109
+# my portfolio
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,12 +16,12 @@
                 <a href="#projects">Projects</a>
                 <a href="#contact">Contact</a>
             </div>
-        </div>
+       
     </header>
 
     <section id="home" class="home-section">
         <h1 id="bla">Welcome to My Portfolio</h1>
-        <p id="blu">Hello! I'm Adigun ezekiel Oluwaseun, a web developer.</p>
+        <p id="blu">Hello! I'm Damilola Omojoye, a web developer.</p>
         <button><a href="#projects" id="blau">See My Work</a></button>
     </section>
 
@@ -57,7 +57,7 @@
                 <h3>Project 3</h3>
                 <p>An innovative task management app designed to help teams collaborate, track tasks, and increase productivity.</p>
             </div>
-        </div>
+       
     </section>
 
     <section id="contact" class="contact-section">
