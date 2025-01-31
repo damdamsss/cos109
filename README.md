@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="active.css">
 </head>
 <body>
-    <header>
+    
         <div class="dropdown">
             <div>
                 <a href="#menu">menu</a>
