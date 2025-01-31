@@ -16,6 +16,7 @@
                 <a href="#projects">Projects</a>
                 <a href="#contact">Contact</a>
             </div>
+        </div>
        
     </header>
 
