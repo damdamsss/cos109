@@ -17,9 +17,6 @@
                 <a href="#contact">Contact</a>
             </div>
         </div>
-       
-    </header>
-
     <section id="home" class="home-section">
         <h1 id="bla">Welcome to My Portfolio</h1>
         <p id="blu">Hello! I'm Damilola Omojoye, a web developer.</p>
